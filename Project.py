@@ -18,6 +18,7 @@ filename = 'resultsPROTOTYPE_2_SUMMARY.CSV'
 sum_filename = inputpath+filename
 
 # Writing something new
+# Continues to work in master
 
 print("Opening file: "+sum_filename)
 
