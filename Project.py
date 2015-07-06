@@ -20,6 +20,8 @@ sum_filename = inputpath+filename
 # Writing something new
 # Continues to work in master
 
+# another small change
+
 print("Opening file: "+sum_filename)
 
 #!/usr/bin/env python --------------------------------------
