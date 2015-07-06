@@ -17,6 +17,8 @@ inputpath = 'C:\\Users\\Lars Petter\\'
 filename = 'resultsPROTOTYPE_2_SUMMARY.CSV'
 sum_filename = inputpath+filename
 
+# Writing something new
+
 print("Opening file: "+sum_filename)
 
 #!/usr/bin/env python --------------------------------------
